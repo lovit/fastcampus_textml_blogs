@@ -57,7 +57,7 @@
 
 - Graph 로 표현된 데이터에서 centrality 기반으로 중요한 마디를 찾을 수 있습니다. 대표적인 알고리즘인 PageRank 와 HITS 에 대한 설명입니다. [(링크)](https://lovit.github.io/machine%20learning/2018/04/16/pagerank_and_hits/)
 - PageRank 는 Python 의 dict 를 이용하여 구현할 수도 있고, scipy.sparse 를 이용할 수도 있습니다. 두 종류의 구현 방식에 따른 속도 비교 입니다 [(링크)](https://lovit.github.io/machine%20learning/2018/04/17/pagerank_implementation_dict_vs_numpy/)
-- PageRank 를 이용하면 토크나이저를 이용하지 않으면서도 단어, 키워드를 추출할 수 있습니다. 토크나이저를 이용하지 않는 한국어 키워드 추출기인 KR-WordRank 의 구현 과정에 대한 포스트와 이 결과를 Word cloud 로 시각화하는 과정입니다. [(링크: KR-WordRank)](https://lovit.github.io/nlp/2018/04/16/krwordrank/], [(링크: Word cloud)](https://lovit.github.io/nlp/2018/04/17/word_cloud/)
+- PageRank 를 이용하면 토크나이저를 이용하지 않으면서도 단어, 키워드를 추출할 수 있습니다. 토크나이저를 이용하지 않는 한국어 키워드 추출기인 KR-WordRank 의 구현 과정에 대한 포스트와 이 결과를 Word cloud 로 시각화하는 과정입니다. [(링크: KR-WordRank)](https://lovit.github.io/nlp/2018/04/16/krwordrank/), [(링크: Word cloud)](https://lovit.github.io/nlp/2018/04/17/word_cloud/)
 
 ## 9 일차
 
