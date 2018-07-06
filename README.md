@@ -4,6 +4,7 @@
 
 - 품사 판별, 형태소 분석, 그리고 미등록단어 문제에 대한 글 입니다. [(링크)](https://lovit.github.io/nlp/2018/04/01/pos_and_oov/)
 - Java 로 구현된 Komoran 을 Jupyter notebook 의 python 에서 이용하기 위한 과정입니다. [(링크)](https://lovit.github.io/nlp/2018/04/06/komoran/)
+- Java 로 구현된 Komoran 을 Python package 로 만드는 과정과 Java, Python 간의 변수 호환에 대한 내용입니다 [(링크)](https://lovit.github.io/nlp/2018/07/06/java_in_python/)
 - 텍스트 데이터를 KoNLPy 를 이용하여 term frequency matrix 로 만드는 과정입니다. [(링크)](https://lovit.github.io/nlp/2018/03/26/from_text_to_matrix/)
 - Logistic regression 의 이론설명 입니다. [(링크)](https://lovit.github.io/nlp/machine%20learning/2018/03/22/logistic_regression/)
 - scipy.sparse 에 구현된 sparse matrix 에 대한 내용과 이를 다룰 때 주의해야 할 점들 입니다. [(링크)](https://lovit.github.io/nlp/machine%20learning/2018/04/09/sparse_mtarix_handling/)
