@@ -7,7 +7,6 @@
 - Java 로 구현된 Komoran 을 Python package 로 만드는 과정과 Java, Python 간의 변수 호환에 대한 내용입니다 [(링크)](https://lovit.github.io/nlp/2018/07/06/java_in_python/)
 - 텍스트 데이터를 KoNLPy 를 이용하여 term frequency matrix 로 만드는 과정입니다. [(링크)](https://lovit.github.io/nlp/2018/03/26/from_text_to_matrix/)
 - Logistic regression 의 이론설명 입니다. [(링크)](https://lovit.github.io/nlp/machine%20learning/2018/03/22/logistic_regression/)
-- scipy.sparse 에 구현된 sparse matrix 에 대한 내용과 이를 다룰 때 주의해야 할 점들 입니다. [(링크)](https://lovit.github.io/nlp/machine%20learning/2018/04/09/sparse_mtarix_handling/)
 
 ## 2 일차
 
@@ -24,6 +23,7 @@
 
 ## 3 일차
 
+- scipy.sparse 에 구현된 sparse matrix 에 대한 내용과 이를 다룰 때 주의해야 할 점들 입니다. [(링크)](https://lovit.github.io/nlp/machine%20learning/2018/04/09/sparse_mtarix_handling/)
 - Point Mutual Information 을 numpy 를 이용하여 구현하는 내용입니다. Matrix handling 연습을 할 수 있습니다. [(링크)](https://lovit.github.io/nlp/2018/04/22/implementing_pmi_numpy_practice/)
 - 평상시 '폭우'라는 단어가 0.1 % 등장하는데, 오늘의 뉴스에서 1 % 등장하였다면 '폭우'의 키워드 점수는 1% / (1% + 0.1%) 로 정의할 수 있습니다. 단어의 출현 빈도 비율을 이용한 키워드 추출 방법의 구현 과정 입니다. [(링크)](https://lovit.github.io/nlp/2018/04/12/proportion_keywords/)
 - Logistic regression 에 L1 regularization 을 더하면 키워드를 추출할 수 있습니다. [(링크)](https://lovit.github.io/nlp/machine%20learning/2018/03/24/lasso_keyword/)
