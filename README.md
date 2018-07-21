@@ -29,6 +29,8 @@
 - Logistic regression 에 L1 regularization 을 더하면 키워드를 추출할 수 있습니다. [(링크)](https://lovit.github.io/nlp/machine%20learning/2018/03/24/lasso_keyword/)
 - (word, context) co-occurrence 를 계산한 뒤, PMI 를 적용하면 단어의 문맥적 유사도를 표현할 수 있습니다. Co-occurrence 정보를 이용하여 semantics 을 표현하는 방법에 대하여 정리한 "From frequency to meaning, Vector space models of semantics (Turney & Pantel, 2010)" 논문의 리뷰입니다. [(링크)](https://lovit.github.io/machine%20learning/nlp/2018/04/18/from_frequency_to_meaning/)
 - (word, context) co-occurrence matrix 에 PMI 를 적용한 뒤, SVD 를 적용하면 Negative sampling 을 이용하는 Skip-gram 의 word vector 와 동일한 값을 얻을 수 있다는 내용의 논문, "Neural Word Embedding as Implicit Matrix Factorization (Levy & Goldberg, 2014)"의 리뷰입니다. [(링크)](https://lovit.github.io/nlp/2018/04/22/context_vector_for_word_similarity/)
+- 한국어 용언의 원형을 표현형으로 변환하는 (가다 -> 갔는데) conjugation 의 원리와 코드입니다. [(링크)](https://lovit.github.io/nlp/2018/06/11/conjugator/)
+- 한국어 용언의 표현형을 원형으로 변환하는 (갔는데 -> 가다) lemmatization 의 원리와 코드입니다 [(링크)](https://lovit.github.io/nlp/2018/06/07/lemmatizer/)
 
 ## 4 일차
 
