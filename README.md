@@ -55,6 +55,7 @@
 - Random projection 의 설명과, 이를 이용한 Locality Sensitive Hashing 의 원리 입니다. [(링크)](https://lovit.github.io/machine%20learning/vector%20indexing/2018/03/28/lsh/)
 - k-means 를 학습하여 얻은 centroid vector 에 keyword extraction 방법을 적용하면 데이터 기반으로 clustering labeling 을 할 수 있습니다. [(링크)](https://lovit.github.io/nlp/machine%20learning/2018/03/21/kmeans_cluster_labeling/)
 - Sparse data 에 대해서는 k-means++ 과 같은 initializer 는 효과적이지 않습니다. Dissimilarity 에 대한 정의가 어려운 sparse data 상황에서의 효율적인 k-means initialization 방법입니다. [(링크)](https://lovit.github.io/nlp/machine%20learning/2018/03/19/kmeans_initializer/)
+- Levenshtein distance 와 이를 변형하는 방법입니다. 한글의 초/중/종성을 분리하여 이를 기준으로 string distance 를 계산하는 방법도 포함하고 있습니다. [(링크)](https://lovit.github.io/nlp/2018/08/28/levenshtein_hangle/)
 
 ## 8 일차
 
