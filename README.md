@@ -62,6 +62,8 @@
 - Graph 로 표현된 데이터에서 centrality 기반으로 중요한 마디를 찾을 수 있습니다. 대표적인 알고리즘인 PageRank 와 HITS 에 대한 설명입니다. [(링크)](https://lovit.github.io/machine%20learning/2018/04/16/pagerank_and_hits/)
 - PageRank 는 Python 의 dict 를 이용하여 구현할 수도 있고, scipy.sparse 를 이용할 수도 있습니다. 두 종류의 구현 방식에 따른 속도 비교 입니다 [(링크)](https://lovit.github.io/machine%20learning/2018/04/17/pagerank_implementation_dict_vs_numpy/)
 - PageRank 를 이용하면 토크나이저를 이용하지 않으면서도 단어, 키워드를 추출할 수 있습니다. 토크나이저를 이용하지 않는 한국어 키워드 추출기인 KR-WordRank 의 구현 과정에 대한 포스트와 이 결과를 Word cloud 로 시각화하는 과정입니다. [(링크: KR-WordRank)](https://lovit.github.io/nlp/2018/04/16/krwordrank/), [(링크: Word cloud)](https://lovit.github.io/nlp/2018/04/17/word_cloud/)
+- Shortest path 를 찾는 알고리즘 중 하나인 포드 알고리즘의 원리 및 구현 과정 입니다 [(링크)](https://lovit.github.io/nlp/graph/2018/08/21/ford_for_shortestpath/)
+- Shortest path 를 찾는 알고리즘 중 하나인 포드를 이용하여, 간단한 HMM 기반 품사 판별기를 만드는 과정입니다. 자세한 디테일보다는 HMM 과 shortest path 와의 관계 및 작동 원리에 대한 내용이 기술되어 있습니다 [(링크)](https://lovit.github.io/nlp/graph/2018/08/21/ford_for_shortestpath/)
 
 ## 9 일차
 
