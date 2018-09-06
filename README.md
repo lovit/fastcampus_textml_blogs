@@ -44,6 +44,7 @@
 
 - Word2Vec 과 Doc2Vec 의 학습 원리 및 역사에 대하여 정리한 글입니다. [(링크)](https://lovit.github.io/nlp/representation/2018/03/26/word_doc_embedding/)
 - Word2Vec 이 학습하는 word representation space 에 대하여 이해를 하기 위한 연구인 "All-but-the-top: simple and effective postprocessing for word representations (ICLR 2018)" 의 리뷰와 이에 대한 해석입니다. [(링크)](https://lovit.github.io/nlp/2018/04/05/space_odyssey_of_word2vec/)
+- Glove 는 Word2Vec 과 더불어 가장 많이 이용되는 word embedding 방법 중 하나입니다. Word2Vec 과의 차이점에 대한 글입니다 [(링크)](https://lovit.github.io/nlp/representation/2018/09/05/glove/)
 
 ## 6 일차
 
