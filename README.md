@@ -36,7 +36,9 @@
 
 ## 3 일차
 
-- Hidden Markov Model (HMM) 을 이용하여 말뭉치의 패턴을 학습하는 품사 판별기의 작동 원리와 모델의 구조적 문제점들 입니다. [(링크)](https://lovit.github.io/nlp/2018/09/11/hmm_based_tagger/)
+- Hidden Markov Model (HMM) 을 이용하여 말뭉치의 패턴을 학습하는 품사 판별기 (형태소 분석기) 의 작동 원리와 모델의 구조적 문제점들 입니다. [(링크)](https://lovit.github.io/nlp/2018/09/11/hmm_based_tagger/)
+
+- Conditional Random Field (CRF) 를 이용하여 말뭉치의 패턴을 학습하는 품사 판별기 (형태소 분석기) 의 작동 원리와 HMM 기반 모델과의 차이점들 입니다 [(링크)](https://lovit.github.io/nlp/2018/09/13/crf_based_tagger/)
 
 - scipy.sparse 에 구현된 sparse matrix 에 대한 내용과 이를 다룰 때 주의해야 할 점들 입니다. [(링크)](https://lovit.github.io/nlp/machine%20learning/2018/04/09/sparse_mtarix_handling/)
 
