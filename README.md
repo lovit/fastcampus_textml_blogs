@@ -76,6 +76,8 @@
 
 - Glove 는 Word2Vec 과 더불어 가장 많이 이용되는 word embedding 방법 중 하나입니다. Word2Vec 과의 차이점에 대한 글입니다 [(링크)](https://lovit.github.io/nlp/representation/2018/09/05/glove/)
 
+- t-SNE 는 벡터 시각화를 위하여 가장 많이 이용되는 임베딩 방법입니다. t-SNE 에서 가장 중요한 패러매터인 perplexity 의 역할과 설정 기준에 대한 글입니다 [(링크)](t-Stochastic Neighbor Embedding (t-SNE) 와 perplexity)
+
 ## 6 일차
 
 - Topic modeling 에 관련된 포스트를 작성할 예정입니다.
