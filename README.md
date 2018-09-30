@@ -78,6 +78,8 @@
 
 - t-SNE 는 벡터 시각화를 위하여 가장 많이 이용되는 임베딩 방법입니다. t-SNE 에서 가장 중요한 패러매터인 perplexity 의 역할과 설정 기준에 대한 글입니다 [(링크)](https://lovit.github.io/nlp/representation/2018/09/28/tsne/)
 
+- MDS, LLE, ISOMAP 의 설명과 t-SNE 까지 포함한 네 종류의 임베딩 방법 간의 시각화 성능 비교 실험입니다. 시각화를 위한 임베딩에서는 네 알고리즘 중 t-SNE 가 안정적인 성능을 보여줍니다 [(링크)](https://lovit.github.io/nlp/representation/2018/09/28/mds_isomap_lle/)
+
 ## 6 일차
 
 - Topic modeling 에 관련된 포스트를 작성할 예정입니다.
