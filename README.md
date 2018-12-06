@@ -80,6 +80,8 @@
 
 - Word2Vec 은 학습 때 보지 못했던 단어에 대해 word vector 를 알 수 없으며, infrequent words 에 대한 word vectors 도 학습이 잘 되지 않습니다. 이러한 단점을 보완하기 위하여 FastText 가 제안되었습니다. 이는 subword embedding 을 이용한 word embedding 방법으로, 미등록 단어와 infrequent words 에 대하여 frequent words 와의 형태적 유사성을 고려한 word vector 를 추정하여 줍니다. [(링크)](https://lovit.github.io/nlp/representation/2018/10/22/fasttext_subword/)
 
+- Gensim Word2Vec 은 embedding vector 에 단어 빈도수 정보가 포함되어 있으며, infrequent words 는 embedding vector 가 잘 학습되지 않기도 합니다. Gensim Word2Vec 학습 시 min_count 설정에 대한 팁과 후처리를 통하여 질 좋은 embedding vector 를 고르는 방법입니다 [(링크)](https://lovit.github.io/nlp/representation/2018/12/05/min_count_of_word2vec/)
+
 - t-SNE 는 벡터 시각화를 위하여 가장 많이 이용되는 임베딩 방법입니다. t-SNE 에서 가장 중요한 패러매터인 perplexity 의 역할과 설정 기준에 대한 글입니다 [(링크)](https://lovit.github.io/nlp/representation/2018/09/28/tsne/)
 
 - MDS, LLE, ISOMAP 의 설명과 t-SNE 까지 포함한 네 종류의 임베딩 방법 간의 시각화 성능 비교 실험입니다. 시각화를 위한 임베딩에서는 네 알고리즘 중 t-SNE 가 안정적인 성능을 보여줍니다 [(링크)](https://lovit.github.io/nlp/representation/2018/09/28/mds_isomap_lle/)
