@@ -34,6 +34,8 @@
 
 - 한국어의 용언 (부사, 형용사)는 어근과 어미 형태소로 구성된 단어입니다. "했는데" 처럼 활용된 용언의 원형을 복원하는 lemmatizer 에 대한 설명과 개발 과정입니다. [(링크)](https://lovit.github.io/nlp/2018/06/07/lemmatizer/)
 
+- 형태소의 품사 태깅이 되어 있는 말뭉치가 있을 경우, 데이터 기반으로 lemmatizer 나 conjugator 를 손쉽게 만들 수 있습니다. [(링크)](https://lovit.github.io/nlp/2019/01/22/trained_kor_lemmatizer/)
+
 ## 3 일차
 
 - Hidden Markov Model (HMM) 을 이용하여 말뭉치의 패턴을 학습하는 품사 판별기 (형태소 분석기) 의 작동 원리와 모델의 구조적 문제점들 입니다. [(링크)](https://lovit.github.io/nlp/2018/09/11/hmm_based_tagger/)
