@@ -1,5 +1,11 @@
 # 패스트캠퍼스, 자연어처리를 위한 머신러닝, 수업관련 포스트입니다.
 
+강의노트, 실습 데이터, 실습 코드는 각각 다음의 repository 에 올려두었습니다.
+
+- 강의 노트   : https://github.com/lovit/textmining-tutorial
+- 실습 데이터 : https://github.com/lovit/textmining_dataset
+- 실습 코드   : https://github.com/lovit/python_ml4nlp
+
 ## 1 일차
 
 - 품사 판별, 형태소 분석, 그리고 미등록단어 문제에 대한 글 입니다. [(링크)](https://lovit.github.io/nlp/2018/04/01/pos_and_oov/)
