@@ -138,5 +138,5 @@
 
 ## 10 일차
 
-- Recurrent Neural Network 에 관련된 포스트를 작성할 예정입니다.
+- Sequence to sequence 에 적용된 attention 부터 Transformer 와 BERT 까지, NLP 에서 이용된 attention mechanism 을 정리하였습니다 [(링크)](https://lovit.github.io/machine%20learning/2019/03/17/attention_in_nlp/)
 
