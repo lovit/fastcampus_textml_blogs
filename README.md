@@ -128,6 +128,8 @@
 
 - PageRank 를 이용하면 토크나이저를 이용하지 않으면서도 단어, 키워드를 추출할 수 있습니다. 토크나이저를 이용하지 않는 한국어 키워드 추출기인 KR-WordRank 의 구현 과정에 대한 포스트와 이 결과를 Word cloud 로 시각화하는 과정입니다. [(링크: KR-WordRank)](https://lovit.github.io/nlp/2018/04/16/krwordrank/), [(링크: Word cloud)](https://lovit.github.io/nlp/2018/04/17/word_cloud/)
 
+- KR-WordRank 에 핵심 문장 추출 기능을 추가하였습니다. 이 과정에서 좋은 핵심 문장의 조건에 대해서도 고민하였습니다. 개발 과정과 TextRank 와의 요약문 품질 평가과정을 정리하였습니다 [(링크)](https://lovit.github.io/nlp/2019/05/01/krwordrank_sentence/)
+
 - TextRank 는 PageRank 를 이용하여 키워드와 핵심 문장을 선택하는 전통적인 extractive summarization 방법 중 하나입니다. 이를 구현하는 과정 및 문장 간 유사도를 변화 시켰을 경우의 품질 변화 등의 내용을 정리하였습니다. [(링크)](https://lovit.github.io/nlp/2019/04/30/textrank/)
 
 - Shortest path 를 찾는 알고리즘 중 하나인 포드 알고리즘의 원리 및 구현 과정 입니다 [(링크)](https://lovit.github.io/nlp/graph/2018/08/21/ford_for_shortestpath/)
