@@ -100,6 +100,8 @@
 
 - Topic modeling 에 이용되는 대표적인 알고리즘인 Latent Dirichlet Allocation (LDA) 의 학습 결과를 시각화하여 설명하는 pyLDAvis 의 사용법 및 pyLDAvis 가 학습하는 정보에 관련된 설명입니다 [(링크)](https://lovit.github.io/nlp/2018/09/27/pyldavis_lda/)
 
+- pyLDAvis 는 LDA 외에도 임의의 토픽 모델링 결과를 모두 시각화 할 수 있습니다. NMF 와 k-means 의 결과를 LDAvis 를 이용하여 시각화 하는 내용입니다 [(링크)](https://lovit.github.io/nlp/2019/06/10/visualize_topic_models_with_pyldavis/)
+
 - Named Entity Recognition (NER) 을 위하여 Conditional Random Field (CRF) 는 이전부터 이용되었으며, 해석의 측면에서 여전히 좋은 모델입니다. CRF 를 이용한 NER model 을 만드는 과정입니다. [(링크)](https://lovit.github.io/nlp/2018/06/22/crf_based_ner/)
 
 ## 7 일차
