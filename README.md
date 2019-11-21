@@ -80,6 +80,10 @@
 
 ## 5 일차
 
+- 시각화 패키지인 Seaborn 의 튜토리얼 입니다 [(링크)](https://lovit.github.io/visualization/2019/11/22/seaborn_tutorial/)
+
+- 시각화 패키지인 Bokeh 의 튜토리얼 입니다 [(링크)](https://lovit.github.io/visualization/2019/11/22/bokeh_tutorial/)
+
 - Word2Vec 과 Doc2Vec 의 학습 원리 및 역사에 대하여 정리한 글입니다. [(링크)](https://lovit.github.io/nlp/representation/2018/03/26/word_doc_embedding/)
 
 - Word2Vec 이 학습하는 word representation space 에 대하여 이해를 하기 위한 연구인 "All-but-the-top: simple and effective postprocessing for word representations (ICLR 2018)" 의 리뷰와 이에 대한 해석입니다. [(링크)](https://lovit.github.io/nlp/2018/04/05/space_odyssey_of_word2vec/)
